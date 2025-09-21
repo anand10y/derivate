@@ -1,10 +1,12 @@
-# Derivate Project
+# Derivate Project (Structură organizată)
 
 Acest proiect generează animații cu **formulele derivatelor** folosind Manim și le afișează cu Streamlit.
 
 ## Structură
 - `animations/` – scripturile Manim
 - `videos/` – videoclipurile generate
+- `docs/` – documentație suplimentară
+- `notebooks/` – exemple și teste Jupyter
 - `app.py` – aplicația Streamlit
 - `requirements.txt` – dependențele Python
 
